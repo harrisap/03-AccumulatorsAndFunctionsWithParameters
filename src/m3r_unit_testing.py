@@ -8,7 +8,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
 """
 ###############################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   Allow this module to use the  rosegraphics.py  module by marking the
 #     src
 #   folder in this project as a "Sources Root", as follows:
@@ -72,7 +72,7 @@ main()
 # TODO: 2.
 #
 # READ the following, asking questions as needed.
-# When you believe that you understading what is says about UNIT TESTING,
+# When you believe that you understand what is says about UNIT TESTING,
 # mark the above TO-DO as DONE.
 #
 #   In most exercises we will follow the  UNIT TESTING
